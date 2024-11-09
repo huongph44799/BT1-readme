@@ -69,7 +69,9 @@ body {
   font-weight: 700;
   line-height: 53px;
 }
-
+section-content .max_wid .contaitt {
+  margin-left: 67px;
+}
 .space {
   padding-top: 59px;
 }
@@ -161,7 +163,6 @@ body {
 
 .content .containeres {
   position: relative;
-  left: 134px;
 }
 
 .content .contents .contait {
@@ -171,6 +172,7 @@ body {
   font-weight: 400;
   size: 20px;
   line-height: 23.87px;
+  margin-left: 134px;
 }
 
 .content .contents .contaitt {
@@ -238,6 +240,7 @@ body {
   font-size: 20px;
   font-weight: 200;
   font-style: normal;
+  margin-left: 134px;
 }
 
 .section-content::before {
