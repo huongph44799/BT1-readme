@@ -1,0 +1,257 @@
+@import url("https://fonts.cdnfonts.com/css/inika");
+@import url("https://fonts.cdnfonts.com/css/bernhardmod-bt");
+@import url("https://fonts.cdnfonts.com/css/bagrile");
+@import url("https://fonts.cdnfonts.com/css/tt-jenevers-trl");
+@import url("https://fonts.cdnfonts.com/css/bctur");
+@import url("https://fonts.cdnfonts.com/css/inter-tight");
+@import url("https://fonts.cdnfonts.com/css/amsipro-light");
+@import url("https://fonts.cdnfonts.com/css/nokia-cellphone-fc");
+body {
+  overflow-x: hidden;
+}
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: auto;
+}
+.header {
+  background-color: #ffd900;
+  padding: 10px 20px;
+  text-align: left;
+  font-weight: bold;
+  color: black;
+  font-family: "New York Extra Large", sans-serif;
+  height: 350px;
+}
+.header .read-me {
+  font-family: "New York Extra Large";
+  font-size: 200px;
+  font-weight: 700;
+  line-height: 238.67px;
+  margin-left: 131px;
+}
+.header h5 {
+  font-family: "SF Mono", sans-serif;
+  font-size: 20px;
+  margin-left: 131px;
+  margin-top: 72px;
+}
+.nokia {
+  width: 681.75px;
+  height: 47.25px;
+  font-family: "Nokia Cellphone FC", sans-serif;
+}
+.version {
+  font-size: 14px;
+  text-align: left;
+  padding-left: 20px;
+  color: black;
+}
+.separator {
+  margin: 0;
+}
+.max_wid {
+  max-width: 813px;
+}
+
+.max_wid1 {
+  max-width: 884px;
+}
+
+.size_45 {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 53px;
+}
+
+.space {
+  padding-top: 59px;
+}
+
+.space_80 {
+  padding-top: 80px;
+}
+
+.margin {
+  margin-top: 15px;
+}
+
+.head {
+  background: #ffd900;
+
+  position: relative;
+  width: 1523px;
+  height: 350px;
+}
+
+.head_top .head_dis {
+  font-family: "SF Mono", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23.87px;
+  width: 322px;
+  height: 24px;
+  top: 65px;
+  left: 140px;
+  position: absolute;
+}
+
+.head_top .head_int {
+  font-size: 191px;
+  line-height: 238.67px;
+  font-weight: 700;
+  width: 829px;
+  height: 239px;
+  top: 79px;
+  bottom: 32px;
+  left: 131px;
+  position: absolute;
+  font-family: "New York Extra Large", sans-serif;
+}
+
+.content .contents,
+.contents1 {
+  position: relative;
+}
+.content .contentes {
+  top: 103px;
+  left: 131px;
+  font-size: 42px;
+  line-height: 52.51px;
+  font-weight: 700;
+  width: 523px;
+  height: 53px;
+  position: absolute;
+  font-family: "New York Extra Large", sans-serif;
+}
+
+.content .contentone {
+  top: 368px;
+  left: 131px;
+  font-size: 42px;
+  line-height: 52.51px;
+  font-weight: 700;
+  width: 477px;
+  height: 53px;
+  position: absolute;
+  font-family: "New York Extra Large", sans-serif;
+}
+.content_intfour {
+  font-family: "AmsiPro-Light", sans-serif;
+  width: 493.82px;
+  height: 49.57px;
+}
+.content .contentt {
+  top: 575px;
+  left: 131px;
+  font-size: 42px;
+  line-height: 52.51px;
+  font-weight: 700;
+  width: 535px;
+  height: 53px;
+  position: absolute;
+  font-family: "New York Extra Large", sans-serif;
+}
+
+.content .containeres {
+  position: relative;
+  left: 134px;
+}
+
+.content .contents .contait {
+  top: 182px;
+  position: absolute;
+  font-family: "SF Pro Display", sans-serif;
+  font-weight: 400;
+  size: 20px;
+  line-height: 23.87px;
+}
+
+.content .contents .contaitt {
+  top: 447px;
+  position: absolute;
+  font-family: "SF Pro Display", sans-serif;
+  font-weight: 400;
+  size: 20px;
+  line-height: 23.87px;
+}
+
+.content .contents .contaittt {
+  top: 652px;
+  position: absolute;
+  font-family: "SF Pro Display", sans-serif;
+  font-weight: 400;
+  size: 20px;
+  line-height: 23.87px;
+}
+
+.content .container .contai_num4 {
+  top: 121px;
+  position: absolute;
+  font-family: "SF Pro Display", sans-serif;
+  font-weight: 400;
+  size: 20px;
+  line-height: 23.87px;
+}
+
+.margin_59 {
+  margin-top: 60px;
+}
+
+.hallo .contenttt {
+  font-family: "Bagrile", sans-serif;
+  width: 382.35px;
+  height: 48.06px;
+
+  opacity: 0px;
+}
+.contentes {
+  font-family: "BernhardMod BT", sans-serif;
+  width: 333.88px;
+  height: 50.22px;
+}
+
+.hallo .contenttt .dis {
+  font-family: "SF Pro Display", sans-serif;
+  font-weight: 400;
+  size: 20px;
+  line-height: 23.87px;
+}
+
+.hallo h2.harriet {
+  font-family: "TT Jenevers Trl", sans-serif;
+  width: 302.91px;
+  height: 40.9px;
+}
+
+.section-content {
+  position: relative;
+  padding-left: 26px;
+  font-family: "SF Pro Display", sans-serif;
+  line-height: 35px;
+  font-size: 20px;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.section-content::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  border-left: 4px solid black;
+}
+
+.padding_bot {
+  padding-bottom: 30px;
+}
+.content p {
+  font-size: 20px;
+}
