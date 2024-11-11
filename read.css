@@ -6,6 +6,8 @@
 @import url("https://fonts.cdnfonts.com/css/inter-tight");
 @import url("https://fonts.cdnfonts.com/css/amsipro-light");
 @import url("https://fonts.cdnfonts.com/css/nokia-cellphone-fc");
+@import url("https://fonts.cdnfonts.com/css/bacasime-antique");
+@import url("https://fonts.cdnfonts.com/css/berolina");
 body {
   overflow-x: hidden;
 }
@@ -183,7 +185,9 @@ section-content .max_wid .contaitt {
   size: 20px;
   line-height: 23.87px;
 }
-
+.content_ints {
+  font-family: "Berolina", sans-serif;
+}
 .content .contents .contaittt {
   top: 652px;
   position: absolute;
@@ -235,7 +239,6 @@ section-content .max_wid .contaitt {
 .section-content {
   position: relative;
   padding-left: 26px;
-  font-family: "SF Pro Display", sans-serif;
   line-height: 35px;
   font-size: 20px;
   font-weight: 200;
