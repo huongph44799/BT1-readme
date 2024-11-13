@@ -8,6 +8,7 @@
 @import url("https://fonts.cdnfonts.com/css/nokia-cellphone-fc");
 @import url("https://fonts.cdnfonts.com/css/bacasime-antique");
 @import url("https://fonts.cdnfonts.com/css/berolina");
+@import url("https://fonts.cdnfonts.com/css/sf-pro-display");
 body {
   overflow-x: hidden;
 }
@@ -56,13 +57,16 @@ body {
   padding-left: 20px;
   color: black;
 }
+
 .separator {
   margin: 0;
 }
 .max_wid {
   max-width: 813px;
 }
-
+.section-content .max_wid .contaitt {
+  margin-bottom: 90px;
+}
 .max_wid1 {
   max-width: 884px;
 }
@@ -87,6 +91,8 @@ section-content .max_wid .contaitt {
 
 .margin {
   margin-top: 15px;
+  font-family: "SF Pro Display", sans-serif;
+  font-size: 20px;
 }
 
 .head {
@@ -143,10 +149,10 @@ section-content .max_wid .contaitt {
 .content .contentone {
   top: 368px;
   left: 131px;
-  font-size: 42px;
+  font-size: 44px;
   line-height: 52.51px;
   font-weight: 700;
-  width: 477px;
+  width: 100%;
   height: 53px;
   position: absolute;
   font-family: "New York Extra Large", sans-serif;
@@ -158,12 +164,13 @@ section-content .max_wid .contaitt {
   font-size: 44px;
 }
 .content .contentt {
+  margin-bottom: 24px;
   top: 575px;
   left: 131px;
-  font-size: 42px;
+  font-size: 44px;
   line-height: 52.51px;
   font-weight: 700;
-  width: 535px;
+  width: 100%;
   height: 53px;
   position: absolute;
   font-family: "New York Extra Large", sans-serif;
@@ -174,6 +181,7 @@ section-content .max_wid .contaitt {
 }
 
 .content .contents .contait {
+  margin-bottom: 90px;
   top: 182px;
   position: absolute;
   font-family: "SF Pro Display", sans-serif;
@@ -186,6 +194,7 @@ section-content .max_wid .contaitt {
 .contents .contents p {
   margin-left: 169px;
 }
+
 .content .contents .contaitt {
   top: 447px;
   position: absolute;
@@ -256,9 +265,11 @@ section-content .max_wid .contaitt {
   font-style: normal;
   margin-bottom: 300px;
   margin-left: 134px;
+  font-family: "SF Pro Display", sans-serif;
 }
 
 .section-content::before {
+  margin-bottom: 90px;
   content: "";
   position: absolute;
   left: 0;
